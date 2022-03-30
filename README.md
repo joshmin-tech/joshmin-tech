@@ -2,7 +2,7 @@
 # Joshmin R S
 ### Design and Development
 
-I am Joshmin R S from India, and I do content on Design and Development projects. I really enjoy learning languages & frameworks such as React, Python Django and also passionate to learn new technologies.
+I am Joshmin R S from India, and I do projects on Design and Development. I really enjoy learning languages & frameworks such as React, Python Django and also passionate to learn new technologies.
 
 #### Skills: React JS || Python || Django || Rest API || AWS || Docker
 
