@@ -4,4 +4,6 @@
 
 I am Joshmin R S from India, and I do content on Design and Development projects. I really enjoy learning languages & frameworks such as React, Python Django and also passionate to learn new technologies.
 
-Skills: React JS || Python || Django || Rest API || AWS || Docker
+#### Skills: React JS || Python || Django || Rest API || AWS || Docker
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshminrs//)  
