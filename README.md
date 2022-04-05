@@ -10,4 +10,4 @@ I am Joshmin R S from India, and I do projects on Design and Development. I real
 
 #### Skills: React JS || Python || Django || Rest API || AWS || Docker
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshminrs//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joshminrs//)  
